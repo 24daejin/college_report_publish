@@ -1,0 +1,6 @@
+{
+  "name": "성의고 수시 대입 결과 분석",
+  "description": "2026학년도 성의고 수시 대입 전형별 지원 및 합격 결과를 세부 등급 구간과 전형 유형에 따라 시각적으로 입체 분석하는 예측 시스템입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
